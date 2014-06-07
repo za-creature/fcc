@@ -1,7 +1,7 @@
 fcc
 ===
 
-Full Circle C (fcc) is a compiler for a limited subset of the C language, written in Python. It was a homework assignment for prof. Dra***ici (full name omitted because he probably doesn't want to be associated in any way with this monstruosity) during a course in Compiler Architecture.
+Full Circle C (fcc) is a compiler for a limited subset of the C language, written in Python. It was a homework assignment by prof. Dra***ici (full name omitted because he probably doesn't want to be associated in any way with this monstruosity) for a course in Compiler Architecture.
 
 It compiles code for a custom stack based virtual machine (included). While the lexer and code generator are decent, reading the parser can be considered torture under certain jurisdictions. 
 
