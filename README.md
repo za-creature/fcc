@@ -57,7 +57,9 @@ Why?
 ----
 
 To paraphrase a famous politician, "I choose to write a C interpreter on top of a Python interpreter written in C. Not because it's easy, but because it's hard".
+
 Also, because I felt like I've been criticizing other compilers and languages for far too long without so much as a thought about the challenges their developers face.
+
 While this is MOST DEFINITELY NOT something that you want to use in any ACTUAL project, I've learned a bunch from it (mostly how NOT to do things), and maybe someone else will too.
 
 
